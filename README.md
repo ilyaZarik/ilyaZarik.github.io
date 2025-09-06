@@ -1,3 +1,83 @@
-(!DOCTYPE html)
-<h1>ilyaZarik.github.io</h1>
-<h1 style="color: blue;">Discord app privacy policy </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ServerSecuree Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+      text-align: center;
+    }
+    h2 {
+      color: #2980b9;
+      margin-top: 30px;
+    }
+    h3 {
+      color: #16a085;
+    }
+    p {
+      margin: 10px 0;
+    }
+    code {
+      background-color: #ecf0f1;
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ServerSecuree Privacy Policy</h1>
+    <p>Welcome! This privacy policy explains how <strong>ServerSecuree</strong>, our anti-nuke/raid Discord bot, handles your data.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>ServerSecuree collects minimal information necessary for functionality. This includes:</p>
+    <ul>
+      <li>Server IDs where the bot is installed</li>
+      <li>Channel IDs for logging purposes</li>
+      <li>Basic message events to detect raids or nukes</li>
+    </ul>
+
+    <h2>2. Information We Do NOT Collect</h2>
+    <p>ServerSecuree does <strong>not</strong> collect:</p>
+    <ul>
+      <li>User DMs or private messages</li>
+      <li>User personal information like email, IP addresses, or payment info</li>
+      <li>Any data not required for moderation and anti-raid features</li>
+    </ul>
+
+    <h2>3. How We Use Data</h2>
+    <p>Data is used strictly to:</p>
+    <ul>
+      <li>Monitor and prevent raid or nuke activity in your server</li>
+      <li>Log moderation events for server admins</li>
+      <li>Provide statistics to improve bot performance</li>
+    </ul>
+
+    <h2>4. Data Sharing</h2>
+    <p>ServerSecuree does not share your server data with third parties. All data remains private and secure.</p>
+
+    <h2>5. Contact</h2>
+    <p>If you have questions or concerns about your data, contact us via Discord at <code>your-discord-tag#1234</code>.</p>
+
+    <p>By using ServerSecuree, you agree to this privacy policy. We reserve the right to update it as necessary.</p>
+  </div>
+</body>
+</html>
